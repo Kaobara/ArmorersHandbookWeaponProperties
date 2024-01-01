@@ -1,5 +1,5 @@
 {
-    "name": "armorershandbookswp",
+    "id": "armorers-handbook-weapon-properties",
     "title": "The Complete Armorer's Handbook Weapon Properties",
     "description": "Adds new weapon properties from HeavyArm's Complete Armorer's Handbook to the D&D 5e system.",
     "version": "0.1",
@@ -9,6 +9,5 @@
     "scripts": ["armorershandbookwp.js"],
     "manifest": "https://raw.githubusercontent.com/Kaobara/ArmorersHandbookWeaponProperties/main/module.json",
     "download": "https://github.com/Kaobara/ArmorersHandbookWeaponProperties/archive/main.zip",
-    "minimumCoreVersion": "0.7.0",
-    "compatibleCoreVersion": "11.0.1"
+    "compatibility": {"minimum":"10"}
   }
